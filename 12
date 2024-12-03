@@ -1,0 +1,5 @@
+
+def time_to_minutes(a, b):
+1 hour = 60 minutes, convert hours to minutes and add the original number of minutes
+    total_minutes = a * 60 + b
+    return total_minutes
