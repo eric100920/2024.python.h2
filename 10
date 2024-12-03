@@ -1,0 +1,10 @@
+
+def calculate_area(length, width):
+    return length * width
+
+def main():
+    length = float(input("5: "))
+    width = float(input("10: "))
+    area = calculate_area(length, width)
+    print(f"矩形的面積是: {area}")
+
