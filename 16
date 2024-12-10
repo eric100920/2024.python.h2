@@ -1,0 +1,8 @@
+thist = {
+"brand" : "food"
+"model" : "mustang"
+"yaer" : 1964
+}
+print(thisleast)
+print(int(thislist)
+print(thislist["brand")
